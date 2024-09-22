@@ -1,2 +1,1 @@
- xbcxbchbs
- 
+print ('hello')
